@@ -14,11 +14,11 @@
 
 ## Coefficient of Variation Explanation
 
-The coefficient of variation relates to the dispersion and variability of data, so a lower 'cv' value means more consistent data. 
+The coefficient of variation relates to the dispersion or distribution and variability of data, so a lower 'cv' value means more consistent data.The coefficient of variation also is an independent measure from the unit being measured so comparing multiple or different datasets is better to compare with the 'cv' value rather than the standard deviation.
 
 ## Contrasts and Comparisons of Percent Differences
 
-In relation to the mortality data, each of the regions have relatively similar moderate to low 'cv' values which suggests low variability amongst the data. With the Midwest having a 'cv' lowest 'cv' value of 0.249655, this means that there is 24.9655% percent of variability in the Midwest data of the difference in mortality rates between 2018 and 2021, and that the data points are closer to and around the mean.
+In relation to the mortality data, each of the regions have relatively similar moderate to low 'cv' values which suggests low variability amongst the data. With the Midwest having the lowest 'cv' value of 0.249655, this means that there is 24.9655% of variability in the Midwest data of the difference in mortality rates between 2018 and 2021, and that the data points are closer to and around the mean. Similarly the South doesn't follow far behind with a value of 0.287197 meaning that the Midwestern and Southern regions of the United States have a lower distribution of percent change of the mortality rates between 2018 and 2021, unlike the Western and Northeastern regions with respective 'cv' values of 0.370699 and 0.322704.
 
 ## Mapping Table
 
