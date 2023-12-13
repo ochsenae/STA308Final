@@ -14,7 +14,7 @@
 
 ## Coefficient of Variation Explanation
 
-The coefficient of variation relates to the dispersion or distribution and variability of data, so a lower 'cv' value means more consistent data.The coefficient of variation also is an independent measure from the unit being measured so comparing multiple or different datasets is better to compare with the 'cv' value rather than the standard deviation.
+The coefficient of variation relates to the dispersion or distribution and variability of data, so a lower 'cv' value means more consistent data. The coefficient of variation also is an independent measure from the unit being measured so comparing multiple or different datasets is better to compare with the 'cv' value rather than the standard deviation.
 
 ## Contrasts and Comparisons of Percent Differences
 
