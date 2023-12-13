@@ -1,7 +1,7 @@
 # STA308_Final
 ### Author: Anna Ochsenhirt
 
-##Data analysis in both R and Python
+## Data analysis in both R and Python
 
 ## Calculated values from both R and Python code
 

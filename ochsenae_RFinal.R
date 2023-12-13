@@ -77,4 +77,5 @@ results <- census_years %>%
             SD = sd(PctDec), 
             CV = sd(PctDec) / mean(PctDec))
 
-print(results)
+print(as.data.frame(results), digits=20)
+
